@@ -127,9 +127,9 @@ nav {
     .section-5 div p {
       margin: 1rem 0; }
   .section-5 button {
-    padding: 0 1rem;
+    padding: 1rem;
     background-color: white;
-    border-radius: 0.5rem;
+    border-radius: 4px;
     border: none;
     color: black; }
     .section-5 button:hover {
